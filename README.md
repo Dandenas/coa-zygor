@@ -41,7 +41,3 @@ It only appears on Conquest of Azeroth characters.
 - **Zygor Guides Viewer Remaster:** [ErebusAres/ZygorGuidesRemaster-3.3.5a_WOTLK](https://github.com/ErebusAres/ZygorGuidesRemaster-3.3.5a_WOTLK), based on the classic Zygor Guides Viewer.
 - **Talent builds:** [Ascension Sidekick](https://ascensionsidekick.com). We tried to reach the Sidekick team to ask for permission but couldn't find a working contact. If you're from Sidekick and want the build data removed or credited differently, please open an issue.
 - **CoA class spec data:** from Kui_Nameplates' CoA class database.
-
-## License
-
-The viewer is distributed under the GPL designation of the upstream project; see [LICENSE](LICENSE) (the remaster's licensing notice, kept unchanged). Bundled libraries, guides, data and artwork keep their own licenses and copyrights.
